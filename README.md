@@ -7,4 +7,4 @@ CS student (WGU) building toward software engineering. Currently deep in NeetCod
 - 🌐 Built a Wix e-commerce site for a safety equipment startup
 - 🌱 Currently learning: data structures & algorithms, system design fundamentals
 
-📫 [Ren.s.alshen@outlook.com] · 
+📫 [Dev.Ren.Suli@gmail.com] · 
